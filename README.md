@@ -2,7 +2,7 @@
 
 ![Treine.me](images/logo.svg)
 
-Este é um projeto de página da web para promover treinamentos físicos personalizados oferecidos pela "Treine.me". A página apresenta informações sobre os serviços oferecidos, com ênfase na exclusividade dos treinos e na melhoria da qualidade de vida dos clientes. Os usuários são incentivados a iniciar sua jornada de treinamento.
+Este é um projeto de página da web para promover treinamentos físicos personalizados oferecidos pela "Treine.me", empresa fictícia. A página apresenta informações sobre os serviços oferecidos, com ênfase na exclusividade dos treinos e na melhoria da qualidade de vida dos clientes. 
 
 
 ## 🛠️ Tecnologias Utilizadas
