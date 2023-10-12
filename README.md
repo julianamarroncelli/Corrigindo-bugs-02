@@ -21,4 +21,4 @@ O projeto está organizado da seguinte forma:
 
 ---
 
-🎨 Desenvolvido como um projeto de página de destino por [Seu Nome]
+🎨 Desenvolvido como um projeto de página de destino por Juliana Marroncelli.
